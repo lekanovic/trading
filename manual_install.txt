@@ -1,0 +1,2 @@
+pip install git+https://github.com/matveyco/cex.io-api-python.git
+pip install git+https://github.com/veox/python2-krakenex.git
