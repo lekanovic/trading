@@ -1,2 +1,5 @@
-
+cexapi==0.1
+future==0.16.0
+krakenex==0.0.5
+poloniex==0.2.2
 requests==2.12.5
